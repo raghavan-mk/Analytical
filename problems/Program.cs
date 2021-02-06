@@ -6,15 +6,6 @@ using System.Text;
 
 namespace Problems
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");      
-            Console.WriteLine(Analytical.CharCount("aaaabbbcca"));
-        }   
-    }
-
     public class Analytical
     {
         //input "aaabbcca" 
