@@ -64,6 +64,7 @@ namespace Problems
             return maxPrice;
         }
 
+        // https://leetcode.com/problems/game-of-life/
         public static int[] GameOfLife(int[][] board)
         {
             new Solution().GameOfLife(board);
